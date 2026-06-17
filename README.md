@@ -6,6 +6,8 @@ This project is an end-to-end Power BI dashboard built to analyze sales performa
 
 The report was created using Power BI, Power Query, DAX and a star schema data model.
 
+---
+
 ##  About Me and This Project
 
 I am currently building a portfolio focused on Power BI, Business Intelligence and Data Analysis projects. This dashboard is part of that portfolio and was created to show practical skills that are relevant for a junior Power BI Developer or BI Analyst role.
@@ -15,6 +17,8 @@ I chose this project because sales data is a common business scenario, and it al
 Through this project, I wanted to demonstrate that I can take raw data, transform it into a clean data model, create meaningful calculations and build report pages that help users understand business performance.
 
 This project also helped me improve my understanding of star schema modelling, Power Query transformations, DAX time intelligence and dashboard storytelling.
+
+---
 
 ## Business Problem
 
@@ -28,6 +32,8 @@ The goal of this project is to help business users understand:
 - products with negative profit
 - customer and regional performance
 
+---
+
 ## Tools Used
 
 - Power BI Desktop
@@ -35,6 +41,8 @@ The goal of this project is to help business users understand:
 - DAX
 - Data Modelling
 - CSV dataset
+
+---
 
 ## Dataset
 
@@ -52,6 +60,8 @@ The dataset includes information such as:
 - discount
 - profit
 
+---
+
 ## Data Preparation
 
 The data was cleaned and transformed in Power Query.
@@ -65,6 +75,8 @@ Main steps:
 - removed duplicates from dimension tables
 - created a custom Location ID
 - disabled loading for the raw source table
+
+---
 
 ## Data Model
 
@@ -87,6 +99,8 @@ Relationships:
 
 All relationships are one-to-many with single-direction filtering.
 
+---
+
 ## DAX Measures
 
 The project includes the following DAX measures:
@@ -104,6 +118,8 @@ The project includes the following DAX measures:
 - Profit Previous Year
 - Profit YoY Growth
 - Profit per Order
+
+---
 
 ## Dashboard Pages
 
@@ -123,6 +139,8 @@ It includes:
 - Profit by Category
 - Sales by Customer Segment
 
+---
+
 ### 2. Product Analysis
 
 This page focuses on product performance and profitability.
@@ -134,6 +152,8 @@ It includes:
 - Profit by Sub Category
 - Negative Profit Products
 - Product Detail Table
+
+---
 
 ### 3. Customer & Region Analysis
 
@@ -148,6 +168,8 @@ It includes:
 - Sales by State
 - Customer Detail Table
 
+---
+
 ## Key Insights
 
 - Technology is the most profitable product category.
@@ -156,6 +178,8 @@ It includes:
 - Consumer is the largest customer segment by sales.
 - A small number of customers contribute significantly to total sales and profit.
 - Sales and profit show year-over-year growth after 2016.
+
+---
 
 ## Skills Demonstrated
 
@@ -170,6 +194,8 @@ It includes:
 - Interactive slicers
 - Business analysis
 - Power BI report development
+
+---
 
 ## Screenshots
 
