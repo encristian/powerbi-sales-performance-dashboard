@@ -139,7 +139,6 @@ It includes:
 - Profit by Category
 - Sales by Customer Segment
 
----
 
 ### 2. Product Analysis
 
@@ -153,7 +152,6 @@ It includes:
 - Negative Profit Products
 - Product Detail Table
 
----
 
 ### 3. Customer & Region Analysis
 
