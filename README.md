@@ -6,6 +6,16 @@ This project is an end-to-end Power BI dashboard built to analyze sales performa
 
 The report was created using Power BI, Power Query, DAX and a star schema data model.
 
+##  About Me and This Project
+
+I am currently building a portfolio focused on Power BI, Business Intelligence and Data Analysis projects. This dashboard is part of that portfolio and was created to show practical skills that are relevant for a junior Power BI Developer or BI Analyst role.
+
+I chose this project because sales data is a common business scenario, and it allowed me to practice important Power BI concepts such as data cleaning, data modelling, DAX measures, KPI reporting and interactive dashboard design.
+
+Through this project, I wanted to demonstrate that I can take raw data, transform it into a clean data model, create meaningful calculations and build report pages that help users understand business performance.
+
+This project also helped me improve my understanding of star schema modelling, Power Query transformations, DAX time intelligence and dashboard storytelling.
+
 ## Business Problem
 
 The goal of this project is to help business users understand:
